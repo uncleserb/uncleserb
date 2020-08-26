@@ -3,7 +3,7 @@
 
 <p>I’m currently head of design at <a href="https://www.askia.com" target="_blank">Askia</a>, where I:</p>
 <ul>
-  <li>Design software interfaces</li>
+  <li>Design software interfaces and experiences</li>
   <li>Design internal and external websites</li>
   <li>Design for print (sometimes)</li>
   <li>Write semantic HTML &amp; CSS</li>
